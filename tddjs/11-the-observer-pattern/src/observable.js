@@ -26,7 +26,7 @@
 
     for (var i = 0, l = observers.length; i < l; i++) {
       if (observers[i] == observer) {
-        return true;
+        //return true;
       }
     }
 
